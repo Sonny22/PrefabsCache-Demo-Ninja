@@ -1,0 +1,5 @@
+*.csproj
+Library/
+Assets/PrefabsCache/
+*.sln
+*.userprefs
